@@ -4,21 +4,26 @@
 		"target": "Sara Lance", 
 		"type": "Relationship", 
 		"episode": "S01E01",
-		"comment":""
+		"comment": ""
 	},
 	{
 		"source": "Oliver Queen", 
 		"target": "Laurel Lance",
 		"type": "Relationship", 
 		"episode": "S01E01",
-		"comment":""
+		"comment": ""
 	},
 	{
-		"source":"Laurel Lance",
-		"target":"Tommy Merlyn",
+		"source": "Laurel Lance",
+		"target": "Tommy Merlyn",
 		"type": "Relationship", 
 		"episode": "S01E01",
-		"comment":""
+		"comment": ""
+	},
+	{
+		"source": "Sara Lance",
+		"target": "Nyssa al-Ghul",
+		"type": "Relationship"
 	}
     ]
 }
