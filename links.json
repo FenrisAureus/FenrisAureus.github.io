@@ -68,7 +68,7 @@
 	{
 		"source":"Alex Danvers",
 		"target":"Maggie Sawyer",
-		"type":"ex-Fiancee"
+		"type":"Engagement"
 	},
 	{
 		"source":"Sara Lance",
@@ -159,6 +159,101 @@
 		"source":"Malcolm Merlyn",
 		"target":"Rebecca Merlyn",
 		"type":"Marriage"
+	},
+	{
+		"source":"Felicity Smoak",
+		"target":"Ray Palmer",
+		"type":"Relationship"
+	},
+	{
+		"source":"Ray Palmer",
+		"target":"Anna Loring",
+		"type":"Engagement"
+	},
+	{
+		"source":"Ray Palmer",
+		"target":"Kendra Saunders",
+		"type":"Engagement"
+	},
+	{
+		"source":"Ray Palmer",
+		"target":"Nora Darhk",
+		"type":"Marriage"
+	},
+	{
+		"source":"Kendra Saunders",
+		"target":"Carter Hall",
+		"type":"Soul-Mate"
+	},
+	{
+		"source":"Cisco Ramon",
+		"target":"Kendra Saunders",
+		"type":"Relationship"
+	},
+	{
+		"source":"Cisco Ramon",
+		"target":"Cynthia",
+		"type":"Relationship"
+	},
+	{
+		"source":"Cisco Ramon",
+		"target":"Kamilla Hwang",
+		"type":"Relationship"
+	},
+	{
+		"source":"John Constantine",
+		"target":"Desmond",
+		"type":"Relationship"
+	},
+	{
+		"source":"John Constantine",
+		"target":"Desmond",
+		"type":"Relationship"
+	},
+	{
+		"source":"John Constantine",
+		"target":"Gary Green",
+		"type":"Hookup"
+	},
+	{
+		"source":"Gary Green",
+		"target":"Kayla",
+		"type":"Engagement"
+	},
+	{
+		"source":"Kayla",
+		"target":"Mick Rory",
+		"type":"Relationship"
+	},
+	{
+		"source":"Gary Green",
+		"target":"Gideon",
+		"type":"Relationship"
+	},
+	{
+		"source":"Mick Rory",
+		"target":"Ali",
+		"type":"Hookup"
+	},
+	{
+		"source":"John Constantine",
+		"target":"Zari Tarazi",
+		"type":"Relationship"
+	},
+	{
+		"source":"Felicity Smoak",
+		"target":"Barry Allen",
+		"type":"Relationship"
+	},
+	{
+		"source":"Barry Allen",
+		"target":"Iris West-Allen",
+		"type":"Marriage"
+	},
+	{
+		"source":"Eddie Thawne",
+		"target":"Iris West-Allen",
+		"type":"Engagement"
 	}
     ]
 }
