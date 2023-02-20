@@ -2,17 +2,23 @@
 	{
 		"source": "Oliver Queen", 
 		"target": "Sara Lance", 
-		"type": "Affair", 
+		"type": "Relationship", 
 		"episode": "S01E01",
 		"comment":""
 	},
 	{
 		"source": "Oliver Queen", 
-		"target": "Laurel Lance"
+		"target": "Laurel Lance",
+		"type": "Relationship", 
+		"episode": "S01E01",
+		"comment":""
 	},
 	{
 		"source":"Laurel Lance",
-		"target":"Tommy Merlyn"
+		"target":"Tommy Merlyn",
+		"type": "Relationship", 
+		"episode": "S01E01",
+		"comment":""
 	}
     ]
 }
