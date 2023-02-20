@@ -3,27 +3,162 @@
 		"source": "Oliver Queen", 
 		"target": "Sara Lance", 
 		"type": "Relationship", 
-		"episode": "S01E01",
 		"comment": ""
+	},
+	{
+		"source": "Oliver Queen", 
+		"target": "Shado", 
+		"type": "Relationship", 
+		"comment": ""
+	},
+	{
+		"source": "Oliver Queen",
+		"target": "Nyssa al-Ghul", 
+		"type": "Arranged Marriage", 
+		"comment": "(annulled)"
+	},
+	{
+		"source": "Oliver Queen",
+		"target": "Felicity Smoak", 
+		"type": "Marriage"
 	},
 	{
 		"source": "Oliver Queen", 
 		"target": "Laurel Lance",
 		"type": "Relationship", 
-		"episode": "S01E01",
 		"comment": ""
 	},
 	{
 		"source": "Laurel Lance",
 		"target": "Tommy Merlyn",
 		"type": "Relationship", 
-		"episode": "S01E01",
 		"comment": ""
 	},
 	{
 		"source": "Sara Lance",
 		"target": "Nyssa al-Ghul",
 		"type": "Relationship"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Ava Sharpe",
+		"type":"Marriage"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Lindsay Carlisle",
+		"type":"Kiss",
+		"comment":"Psych Nurse in the 50's"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Queen Anne",
+		"type":"Hookup"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Queen Guinevere",
+		"type":"Kiss"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Alex Danvers",
+		"type":"Hookup"
+	},
+	{
+		"source":"Alex Danvers",
+		"target":"Maggie Sawyer",
+		"type":"ex-Fiancee"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Leonard Snart",
+		"type":"Hookup"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"John Constantine",
+		"type":"Hookup"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Multiple Unnamed Salem Women",
+		"type":"Hookup"
+	},
+	{
+		"source":"Sara Lance",
+		"target":"Unnamed Male Time Bureau Agent",
+		"type":"Hookup"
+	},
+	{
+		"source":"Alex Danvers",
+		"target":"Kelly Olsen",
+		"type":"Marriage"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"Samantha Clayton",
+		"type":"Affair"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"Helena Bertinelli",
+		"type":"Relationship"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"McKenna Hall",
+		"type":"Relationship"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"Isabel Rochev",
+		"type":"Hookup"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"Susan Williams",
+		"type":"Relationship"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"Max Fuller's Ex-Wife",
+		"type":"Hookup"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"Steve Aoki's sister",
+		"type":"Hookup"
+	},
+	{
+		"source":"Oliver Queen",
+		"target":"Vesper Fairchild",
+		"type":"Hookup"
+	},
+	{
+		"source":"Isabel Rochev",
+		"target":"Robert Queen",
+		"type":"Affair"
+	},
+	{
+		"source":"Robert Queen",
+		"target":"Moira Queen",
+		"type":"Marriage"
+	},
+	{
+		"source":"Robert Queen",
+		"target":"Kazumi Adachi",
+		"type":"Affair"
+	},
+	{
+		"source":"Moira Queen",
+		"target":"Malcolm Merlyn",
+		"type":"Affair"
+	},
+	{
+		"source":"Malcolm Merlyn",
+		"target":"Rebecca Merlyn",
+		"type":"Marriage"
 	}
     ]
 }
